@@ -34,3 +34,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Real Midterm
+
+## Definition of Done
+An item is only "Done" when all of the following are true:
+- Merged into `main`
+- Reviewed and approved by a teammate (not the author)
+- Every acceptance criterion on the issue is checked off
+- Works at phone width
+- No errors in the browser console
+- Visible on the deployed URL
+
+## Live site
+https://real-midterm-mu.vercel.app/
+
+## Team
+- @danielsimpson343-oss
+- @renaldojordan
+- @jeremyhay
